@@ -15,7 +15,7 @@
 #define BROKER_URI				"mqtts://mqtt.googleapis.com:8883"
 #define IOTCORE_USERNAME		"unused"
 #define IOTCORE_PROJECTID		"adp-inicio-cloud"
-#define IOTCORE_DEVICE_NUMBER	"101" // Completar el ID que te corresponda segun tu nombre:
+#define IOTCORE_DEVICE_NUMBER	"100" // Completar el ID que te corresponda segun tu nombre:
 
 // 101	Leopoldo Zimperz
 // 102	Martin Alejandro 
