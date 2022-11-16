@@ -18,21 +18,21 @@
 #define IOTCORE_DEVICE_NUMBER	"100" // Completar el ID que te corresponda segun tu nombre:
 
 // 101	Leopoldo Zimperz
-// 102	Martin Alejandro 
-// 103	Milton Eduardo
-// 104	Marcelo Roberto
-// 105	Fabian Dario
-// 106	Leandro Rene
-// 107	Leandro Esteban
-// 108	Raúl Emilio
-// 109	Norberto Antonio
-// 110	Jhonatan Alexander
-// 111	Exequiel  Gabriel
-// 112	Lucas Eduardo
-// 113	Eduardo Agustín
-// 114	Matias Eduardo
-// 115	Roberto Oscar
-// 116	Sofía
+// 102	Erik
+// 103	Nahuel
+// 104	Andrés Samuel
+// 105	Agustin Lucas
+// 106	Gustavo Hernan
+// 107	César Javier
+// 108	María Claudia
+// 109	Simón André
+// 110	Gonzalo
+// 111	Lucas Daniel
+// 112	Joel Alexander
+// 113	Fabián
+// 114	Torben
+// 115	Fernando
+// 116	Alexander Jesus
 
 
 #define IOTCORE_DEVICEID		"dispositivo-"IOTCORE_DEVICE_NUMBER
